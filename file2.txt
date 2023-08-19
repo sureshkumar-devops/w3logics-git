@@ -1,1 +1,2 @@
 thi is file 2
+This is a Text File
